@@ -1,0 +1,12 @@
+{
+  "name": "teste-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram - STATUS ATIVO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
