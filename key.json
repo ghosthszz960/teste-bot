@@ -1,0 +1,12 @@
+{
+  "KEY123": {
+    "nome": "Gustavo",
+    "limite": 100,
+    "status": "ativa"
+  },
+  "KEY456": {
+    "nome": "Cliente 2",
+    "limite": 50,
+    "status": "ativa"
+  }
+}
