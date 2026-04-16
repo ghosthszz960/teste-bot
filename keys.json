@@ -8,5 +8,10 @@
     "nome": "Cliente 2",
     "limite": 50,
     "status": "ativa"
+  },
+  "LU1090": {
+    "nome": "Luciano",
+    "limite": 1,
+    "status": "ativa"
   }
 }
