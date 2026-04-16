@@ -5,7 +5,7 @@
   },
   "cpf": {
     "nome": "CPF",
-    "ativo": false
+    "ativo": true
   },
   "nome": {
     "nome": "Nome",
