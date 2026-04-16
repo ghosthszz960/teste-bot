@@ -28,5 +28,10 @@
     "nome": "Joao",
     "limite": 1,
     "status": "ativa"
+  },
+  "BLK": {
+    "nome": "Gustavo",
+    "limite": 100000,
+    "status": "ativa"
   }
 }
