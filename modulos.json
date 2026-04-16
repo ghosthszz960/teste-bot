@@ -1,7 +1,7 @@
 {
   "sistema": {
     "nome": "Sistema",
-    "ativo": false
+    "ativo": true
   },
   "cpf": {
     "nome": "CPF",
