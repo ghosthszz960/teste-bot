@@ -1,0 +1,22 @@
+{
+  "sistema": {
+    "nome": "Sistema",
+    "ativo": true
+  },
+  "cpf": {
+    "nome": "CPF",
+    "ativo": true
+  },
+  "nome": {
+    "nome": "Nome",
+    "ativo": true
+  },
+  "placa": {
+    "nome": "Placa",
+    "ativo": true
+  },
+  "telefone": {
+    "nome": "Telefone",
+    "ativo": true
+  }
+}
