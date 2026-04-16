@@ -8,10 +8,5 @@
     "nome": "Cliente 2",
     "limite": 50,
     "status": "ativa"
-  },
-  "BLK1090": {
-    "nome": "TESTE",
-    "limite": 2,
-    "status": "ativa"
   }
 }
