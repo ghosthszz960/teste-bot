@@ -13,5 +13,10 @@
     "nome": "Gustavo",
     "limite": 100000,
     "status": "ativa"
+  },
+  "NEW10": {
+    "nome": "TESTE",
+    "limite": 1,
+    "status": "ativa"
   }
 }
