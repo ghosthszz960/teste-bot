@@ -18,5 +18,10 @@
     "nome": "Brenno Lucy",
     "limite": 1,
     "status": "ativa"
+  },
+  "PC2": {
+    "nome": "Canadá 2",
+    "limite": 20,
+    "status": "ativa"
   }
 }
